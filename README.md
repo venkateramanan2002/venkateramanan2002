@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=20DC009A&background=58FF0000&width=435&lines=root%40venkateRamanan~%23whoami;MERN+Stack+Developer;Problem+Solver;Open+Source+Tool+Maker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=20DC009A&background=58FF0000&width=435&lines=root%40venkateRamanan~%23whoami;MERN+Stack+Developer;Problem+Solver;Open+Source+Tool+Maker)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Venkate Ramanan</h1>
 <h3 align="center">I Am passionate On Technology</h3>
