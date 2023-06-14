@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [venkate.me][www.venkate.me](https://venkate.me/))
+- 👨‍💻 All of my projects are available at [venkate.me][www.venkate.me](https://venkate.me/)
 
 - 💬 Ask me about **MERN Stack**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/venkate.me/linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkate.me/linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkate-ramanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="venkate.me/linkedin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/venkate.me/youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="venkate.me/youtube" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/venkate.me/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="venkate.me/leetcode" height="30" width="40" /></a>
 </p>
