@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [venkate.me] venkate.me
+- 👨‍💻 All of my projects are available at [venkate.me] https://venkate.me
 
 - 💬 Ask me about **MERN Stack**
 
